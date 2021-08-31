@@ -22,12 +22,12 @@
     "simple-db-migrate": "index.js"
   },
   "peerDependencies": {
-    "pg": "^7.11.0",
+    "pg": "^8.7.1",
     "sqlite3": "^4.0.9"
   },
   "devDependencies": {
     "jest": "^24.8.0",
-    "pg": "^7.11.0",
+    "pg": "^8.7.1",
     "sqlite3": "^4.0.9"
   },
   "scripts": {
